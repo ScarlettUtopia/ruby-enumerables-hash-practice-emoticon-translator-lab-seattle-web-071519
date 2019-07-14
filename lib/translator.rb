@@ -7,7 +7,7 @@ def load_library => {
   :confused => {"%)","(゜.゜)"},
   :embarrased => {":$","(#^.^#)"},
   :fish => {"><>",">゜))))彡"},
-  :glasses => {},
+  :glasses => {"8D","(^0_0^)"},
   :grinning => {},
   :happy => {},
   :kiss => {},
@@ -24,6 +24,7 @@ def get_japanese_emoticon
   %) = "(゜.゜)"
   :$ = "(#^.^#)"
   ><> = ">゜))))彡"
+  
 end
 
 def get_english_meaning
