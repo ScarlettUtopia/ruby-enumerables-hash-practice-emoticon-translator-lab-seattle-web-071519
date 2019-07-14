@@ -28,7 +28,7 @@ def get_japanese_emoticon
   =D = "(￣ー￣)"
   :) = "(＾ｖ＾)"
   :* = "(*^3^)/~☆"
-  
+  :'( = "(Ｔ▽Ｔ)"
 end
 
 def get_english_meaning
