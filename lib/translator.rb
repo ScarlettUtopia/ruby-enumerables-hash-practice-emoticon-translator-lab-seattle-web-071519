@@ -1,7 +1,7 @@
 # require modules here
 
 def load_library => {
-  :angel => {},
+  :angel => {"O:)","☜(⌒▽⌒)☞"},
   :angry => {},
   :bored => {},
   :confused => {},
