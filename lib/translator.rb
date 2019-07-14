@@ -29,7 +29,7 @@ def get_japanese_emoticon
   :) = "(＾ｖ＾)"
   :* = "(*^3^)/~☆"
   ":'(" = "(Ｔ▽Ｔ)"
-  
+  :o = "o_O"
 end
 
 def get_english_meaning
