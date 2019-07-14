@@ -9,7 +9,7 @@ def load_library => {
   :fish => {"><>",">゜))))彡"},
   :glasses => {"8D","(^0_0^)"},
   :grinning => {"=D","(￣ー￣)"},
-  :happy => {},
+  :happy => {":)","(＾ｖ＾)"},
   :kiss => {},
   :sad => {},
   :surprised => {},
@@ -26,6 +26,7 @@ def get_japanese_emoticon
   ><> = ">゜))))彡"
   8D = "(^0_0^)"
   =D = "(￣ー￣)"
+  
 end
 
 def get_english_meaning
