@@ -19,7 +19,7 @@ end
 
 def get_japanese_emoticon
  O:) = "☜(⌒▽⌒)☞"
-  
+  >:( = "ヽ(ｏ`皿′ｏ)ﾉ"
   :O = "(ΘεΘ;)"
 end
 
