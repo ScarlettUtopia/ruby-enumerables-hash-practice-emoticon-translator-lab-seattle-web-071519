@@ -3,7 +3,7 @@
 def load_library => {
   :angel => {"O:)","☜(⌒▽⌒)☞"},
   :angry => {">:(","ヽ(ｏ`皿′ｏ)ﾉ"},
-  :bored => {},
+  :bored => { ":O","(ΘεΘ;)"},
   :confused => {},
   :embarrased => {},
   :fish => {},
