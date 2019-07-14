@@ -12,7 +12,7 @@ def load_library => {
   :happy => {":)","(＾ｖ＾)"},
   :kiss => {":*","(*^3^)/~☆"},
   :sad => {":'(","(Ｔ▽Ｔ)"},
-  :surprised => {},
+  :surprised => {":o","o_O"},
   :wink => {}
 }
 end
@@ -29,6 +29,7 @@ def get_japanese_emoticon
   :) = "(＾ｖ＾)"
   :* = "(*^3^)/~☆"
   ":'(" = "(Ｔ▽Ｔ)"
+  
 end
 
 def get_english_meaning
