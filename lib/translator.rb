@@ -10,7 +10,7 @@ def load_library => {
   :glasses => {"8D","(^0_0^)"},
   :grinning => {"=D","(￣ー￣)"},
   :happy => {":)","(＾ｖ＾)"},
-  :kiss => {},
+  :kiss => {":*","(*^3^)/~☆"},
   :sad => {},
   :surprised => {},
   :wink => {}
@@ -27,6 +27,7 @@ def get_japanese_emoticon
   8D = "(^0_0^)"
   =D = "(￣ー￣)"
   :) = "(＾ｖ＾)"
+  
 end
 
 def get_english_meaning
