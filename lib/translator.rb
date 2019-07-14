@@ -6,7 +6,7 @@ def load_library => {
   :bored => { ":O","(ΘεΘ;)"},
   :confused => {"%)","(゜.゜)"},
   :embarrased => {":$","(#^.^#)"},
-  :fish => {},
+  :fish => {"><>",">゜))))彡"},
   :glasses => {},
   :grinning => {},
   :happy => {},
@@ -23,6 +23,7 @@ def get_japanese_emoticon
   :O = "(ΘεΘ;)"
   %) = "(゜.゜)"
   :$ = "(#^.^#)"
+  
 end
 
 def get_english_meaning
