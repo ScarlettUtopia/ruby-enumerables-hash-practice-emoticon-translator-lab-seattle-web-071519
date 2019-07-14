@@ -5,7 +5,7 @@ def load_library => {
   :angry => {">:(","ヽ(ｏ`皿′ｏ)ﾉ"},
   :bored => { ":O","(ΘεΘ;)"},
   :confused => {"%)","(゜.゜)"},
-  :embarrased => {},
+  :embarrased => {":$","(#^.^#)"},
   :fish => {},
   :glasses => {},
   :grinning => {},
@@ -22,6 +22,7 @@ def get_japanese_emoticon
   >:( = "ヽ(ｏ`皿′ｏ)ﾉ"
   :O = "(ΘεΘ;)"
   %) = "(゜.゜)"
+  
 end
 
 def get_english_meaning
