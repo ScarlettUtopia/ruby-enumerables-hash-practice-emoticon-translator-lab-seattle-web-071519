@@ -1,13 +1,77 @@
 # require modules here
 
-def load_library
-  # code goes here
+def load_library => {
+  :angel => {"O:)","☜(⌒▽⌒)☞"},
+  :angry => {">:(","ヽ(ｏ`皿′ｏ)ﾉ"},
+  :bored => { ":O","(ΘεΘ;)"},
+  :confused => {"%)","(゜.゜)"},
+  :embarrased => {":$","(#^.^#)"},
+  :fish => {"><>",">゜))))彡"},
+  :glasses => {"8D","(^0_0^)"},
+  :grinning => {"=D","(￣ー￣)"},
+  :happy => {":)","(＾ｖ＾)"},
+  :kiss => {":*","(*^3^)/~☆"},
+  :sad => {":'(","(Ｔ▽Ｔ)"},
+  :surprised => {":o","o_O"},
+  :wink => {";)","(^_-)"}
+}
 end
 
 def get_japanese_emoticon
-  # code goes here
+ O:) = "☜(⌒▽⌒)☞"
+  >:( = "ヽ(ｏ`皿′ｏ)ﾉ"
+  :O = "(ΘεΘ;)"
+  %) = "(゜.゜)"
+  :$ = "(#^.^#)"
+  ><> = ">゜))))彡"
+  8D = "(^0_0^)"
+  =D = "(￣ー￣)"
+  :) = "(＾ｖ＾)"
+  :* = "(*^3^)/~☆"
+  ":'(" = "(Ｔ▽Ｔ)"
+  :o = "o_O"
+  ;) = "(^_-)"
 end
 
 def get_english_meaning
-  # code goes here
+  ☜(⌒▽⌒)☞ = "O:)"
 end
+angel:
+  - "O:)"      
+  - "☜(⌒▽⌒)☞"
+angry:
+  - ">:("
+  - "ヽ(ｏ`皿′ｏ)ﾉ"
+bored:
+  - ":O"
+  - "(ΘεΘ;)"
+confused:
+  - "%)"
+  - "(゜.゜)"
+embarrased:
+  - ":$" 
+  - "(#^.^#)"
+fish:
+  - "><>"
+  - ">゜))))彡"
+glasses:
+  - "8D"
+  - "(^0_0^)"
+grinning:
+  - "=D"
+  - "(￣ー￣)"
+happy:
+  - ":)"
+  - "(＾ｖ＾)"
+kiss:
+  - ":*"
+  - "(*^3^)/~☆"
+sad:
+  - ":'("
+  - "(Ｔ▽Ｔ)"
+surprised:
+  - ":o"
+  - "o_O"
+wink:
+  - ";)"
+  - "(^_-)"
