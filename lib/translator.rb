@@ -23,7 +23,7 @@ def get_japanese_emoticon
   :O = "(ΘεΘ;)"
   %) = "(゜.゜)"
   :$ = "(#^.^#)"
-  
+  ><> = ">゜))))彡"
 end
 
 def get_english_meaning
